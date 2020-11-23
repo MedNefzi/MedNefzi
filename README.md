@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋👋👋
 
-<!--
-**MedNefzi/MedNefzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Being very passionate about computers :computer: and high technologies from a young age, I oriented my studies and my professional goals in this field.
+Mastering different programming languages and having excellent knowledge of different operating systems. :computer:
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on **Web & Mobile developpment and DevOps pipelines**
+* 🌱 I’m currently learning **best practices for Machine Learning**, **AI** & **Computer vision** 
+* 👯 I’m looking to collaborate on **DevOps Projects**
+* 💬 Ask me about **Docker**, **Shell Programmming**, **Web developpment**
+* 📫 How to reach me: [My portfolio](https://mohamednefzi.wixsite.com/mohamednefzi) or contact me directly on this mail [My Gmail](mailto:nefzim22@gmail.com)
+* 😄 Pronouns: **NefNef**
+* ⚡ Fun fact: ***ENSIT***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Linked In account](extras/linkedin.png)](https://www.linkedin.com/in/mohamed-nefzi-6bb3a9127/)
