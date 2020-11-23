@@ -16,4 +16,4 @@ Mastering different programming languages and having excellent knowledge of diff
 
 * 😄 Pronouns: **NefNef**
 
-* ⚡ Fun fact: ***ENSIT***
+* ⚡ Fun fact: ***Socrate est mortel***
